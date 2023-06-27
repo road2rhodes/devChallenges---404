@@ -20,15 +20,21 @@
   display: flex;
 }
 
+#site-wrapper h1 {
+  letter-spacing: -1.92px;
+  text-transform: uppercase;
+}
+
 main {
   display: flex;
+  flex-direction: column;
 }
 h1 {
   font-family: 'Inconsolata', monospace;
 }
 
-.scarecrow{
-  height: 447px;
+.scarecrow {
+  display: flex;
 }
 
 button {
