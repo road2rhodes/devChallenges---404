@@ -16,12 +16,18 @@
 
 /* | Blocks */
 
+#site-wrapper {
+  display: flex;
+}
+
+main {
+  display: flex;
+}
 h1 {
   font-family: 'Inconsolata', monospace;
 }
 
-.scarecrow {
-  max-width: 539px;
+.scarecrow{
   height: 447px;
 }
 
