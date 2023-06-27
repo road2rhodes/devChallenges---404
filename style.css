@@ -37,6 +37,8 @@ h1 {
   display: flex;
 }
 
+
+
 button {
   font-family: inherit;
   font-weight: 700;
@@ -50,6 +52,14 @@ button {
 }
 
 /* | Elements */
+
+.error-message h2 {
+  letter-spacing: -2.24px;
+}
+
+.error-message p {
+  letter-spacing: -0.84;
+}
 
 /* | Modifiers */
 
