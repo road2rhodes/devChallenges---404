@@ -9,6 +9,7 @@
 :root {
   --dark-gray: #333333;
   --gray: #4f4f4f;
+  --white: #ffffff;
   font-family: "Space Mono", monospace;
   font-size: 24px;
 }
@@ -17,6 +18,18 @@
 
 h1 {
   font-family: 'Inconsolata', monospace;
+}
+
+button {
+  font-family: inherit;
+  font-weight: 700;
+  text-transform: uppercase;
+  background-color: var(--dark-gray);
+  color: var(--white);
+  max-width: 216px;
+  width: 216px;
+  height: 68px;
+  border: none;
 }
 
 /* | Elements */
