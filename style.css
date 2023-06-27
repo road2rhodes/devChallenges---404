@@ -8,10 +8,16 @@
 
 :root {
   --dark-gray: #333333;
-
+  --gray: #4f4f4f;
+  font-family: "Space Mono", monospace;
+  font-size: 24px;
 }
 
 /* | Blocks */
+
+h1 {
+  font-family: 'Inconsolata', monospace;
+}
 
 /* | Elements */
 
