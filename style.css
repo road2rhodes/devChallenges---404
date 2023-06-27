@@ -1,5 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@700&family=Space+Mono:wght@400;700&display=swap');
+
 *, ::before, ::after {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
+
+:root {
+  --dark-gray: #333333;
+
+}
+
+/* | Blocks */
+
+/* | Elements */
+
+/* | Modifiers */
