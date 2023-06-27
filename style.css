@@ -20,6 +20,11 @@ h1 {
   font-family: 'Inconsolata', monospace;
 }
 
+.scarecrow {
+  max-width: 539px;
+  height: 447px;
+}
+
 button {
   font-family: inherit;
   font-weight: 700;
@@ -35,3 +40,7 @@ button {
 /* | Elements */
 
 /* | Modifiers */
+
+.flex {
+  flex: auto;
+}
