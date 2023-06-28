@@ -31,14 +31,23 @@
 main {
   display: flex;
 }
+
 h1 {
   font-family: 'Inconsolata', monospace;
+}
+
+.error-message {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
 }
 
 .scarecrow > img {
   max-width: 1440px;
   max-height: 1080px;
 }
+
 
 button {
   font-family: inherit;
