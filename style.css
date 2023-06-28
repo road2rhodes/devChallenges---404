@@ -18,26 +18,27 @@
 
 #site-wrapper {
   display: flex;
+  flex-direction: column;
+
 }
 
 #site-wrapper h1 {
   letter-spacing: -1.92px;
   text-transform: uppercase;
+  margin: 2rem 4rem;
 }
 
 main {
   display: flex;
-  flex-direction: column;
 }
 h1 {
   font-family: 'Inconsolata', monospace;
 }
 
-.scarecrow {
-  display: flex;
+.scarecrow > img {
+  max-width: 1440px;
+  max-height: 1080px;
 }
-
-
 
 button {
   font-family: inherit;
