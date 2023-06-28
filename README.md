@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{Your project name}</h1>
+<h1 align="center">404 Not FOund</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -27,8 +27,17 @@
 ## Table of Contents
 
 - [Overview](#overview)
+
+My first devChallenge...well, challenge! I'm excited to make use of the skills I have acquired through study and practice.
+
   - [Built With](#built-with)
+
+  HTML and vanilla CSS
 - [Features](#features)
+
+  <ul>
+    <li>Flexbox</li>
+    <li>Responsive Design</li>
 - [Contact](#contact)
 - [Acknowledgements](#acknowledgements)
 
