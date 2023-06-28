@@ -41,11 +41,12 @@ h1 {
   flex-direction: column;
   justify-content: center;
   align-items: flex-start;
+  row-gap: 2rem;
 }
 
 .scarecrow > img {
-  max-width: 1440px;
-  max-height: 1080px;
+  max-width: 539.224px;
+  max-height: 447.426px;
 }
 
 
