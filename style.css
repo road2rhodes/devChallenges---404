@@ -14,18 +14,19 @@
   font-size: 24px;
 }
 
+
 /* | Blocks */
 
 #site-wrapper {
   display: flex;
   flex-direction: column;
-
+  max-width: 1060px;
+  margin: 2rem auto;
 }
 
 #site-wrapper h1 {
   letter-spacing: -1.92px;
   text-transform: uppercase;
-  margin: 2rem 4rem;
 }
 
 main {
