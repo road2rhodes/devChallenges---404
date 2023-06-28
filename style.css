@@ -48,7 +48,6 @@ h1 {
 }
 
 .scarecrow > img {
-  max-width: 539.224px;
   max-height: 447.426px;
 }
 
@@ -82,7 +81,7 @@ button {
   flex: 1 1 auto;
 }
 
-@media (max-width: 1059px) {
+@media (min-width: 604px) and (max-width: 1059px) {
   
   #site-wrapper {
     max-width: 539px;
@@ -91,4 +90,31 @@ button {
   main {
     flex-direction: column;;
   }
+}
+
+@media (max-width: 603px) {
+  
+  #site-wrapper {
+    max-width: 395px;
+    align-items: center;
+  }
+  
+  main {
+    flex-direction: column;;
+  }
+  .scarecrow > img {
+    max-height: 247.426px;
+  }
+
+  .error-message {
+    align-items: center;
+    text-align: center;
+  }
+
+  .error-message h2 {
+    letter-spacing: -2.24px;
+    font-size: 35px;
+  }
+  
+
 }
