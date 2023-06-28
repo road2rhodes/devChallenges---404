@@ -22,6 +22,8 @@
   flex-direction: column;
   max-width: 1060px;
   margin: 2rem auto;
+  padding: 1rem;
+  row-gap: 3rem;
 }
 
 #site-wrapper h1 {
@@ -77,5 +79,16 @@ button {
 /* | Modifiers */
 
 .flex {
-  flex: auto;
+  flex: 1 1 auto;
+}
+
+@media (max-width: 1059px) {
+  
+  #site-wrapper {
+    max-width: max-content;
+  }
+  
+  main {
+    flex-direction: column;;
+  }
 }
