@@ -38,6 +38,8 @@ My first devChallenge...well, challenge! I'm excited to make use of the skills I
   <ul>
     <li>Flexbox</li>
     <li>Responsive Design</li>
+  </ul>
+  
 - [Contact](#contact)
 - [Acknowledgements](#acknowledgements)
 
